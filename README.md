@@ -2,4 +2,4 @@
 Проект содержащий даты по истории.
 
 
-<a href="historydatesapp/historydatesapp.html">на главную</a>
+<a href="qiaelel.github.io/historydatesapp/historydatesapp.html">на главную</a>
