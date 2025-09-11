@@ -62,6 +62,7 @@ html {
 
 .title {
   text-align: center;
+  font-size: 25pt;
 }
 
 header{
@@ -78,9 +79,24 @@ footer{
   color:#000;
   display:flow-root;
   text-align:center;
+  font-size: 15pt;
 }
 
 .icon{
-  width: 15%;
-  height: 15%;
+  width: 25%;
+  height: 25%;
+}
+
+li{
+  font-size: 15pt;
+  padding-top: 20px;
+}
+
+.titleofdates{
+  font-size: 25pt;
+}
+
+.search{
+  visibility: hidden;
+  text-align: center;
 }

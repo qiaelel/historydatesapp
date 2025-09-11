@@ -64,6 +64,7 @@ html {
 
 .title {
   text-align: center;
+  font-size: 25pt;
 }
 
 header{
@@ -91,4 +92,13 @@ footer{
 .icon{
   width: 15%;
   height: 15%;
+}
+
+li{
+  font-size: 15pt;
+  padding-top: 20px;
+}
+
+.titleofdates{
+  font-size: 25pt;
 }
