@@ -1,11 +1,15 @@
 # historydatesapp
 Проект содержащий даты по истории.
 
-
+# what's new?
+Добавлено 20 новых дат
+Добавлены дополнения к некоторым событиям
+Исправлена начальная страница
+Исправлены баги и некоторые недочёты
 
 
 <a href="https://t.me/historydateapp">Перейти в телеграмм канал проекта</a>
 
-<a href="https://qiaelel.github.io/historydatesapp/historydatesapp.html">на главную</a>
+<a href="https://qiaelel.github.io/historydatesapp/">на главную</a>
 
-v1.1
+v1.5

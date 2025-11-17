@@ -98,5 +98,10 @@ li{
 
 .search{
   visibility: hidden;
+  width: auto;
   text-align: center;
+}
+
+.highlight {
+  background: #4cff00;
 }
