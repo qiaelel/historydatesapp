@@ -14,4 +14,4 @@
 
 <a href="https://qiaelel.github.io/historydatesapp/">на главную</a>
 
-v1.5.1
+v1.6.1
