@@ -40,4 +40,19 @@
 
 Ссылки:
 страница GitHub (https://github.com/qiaelel/historydatesapp)
+
+сам проект (https://qiaelel.github.io/historydatesapp)
+
+--
+
+Релиз версии 1.6.1
+
+Что нового:
+Добавлено 35 новых дат
+
+Хотите сообщить о ошибке/добавить дат? - напишите в предложку телеграмм канала.
+
+Ссылки:
+страница GitHub (https://github.com/qiaelel/historydatesapp)
+
 сам проект (https://qiaelel.github.io/historydatesapp)
