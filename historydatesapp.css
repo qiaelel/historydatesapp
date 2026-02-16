@@ -105,3 +105,54 @@ li{
 .highlight {
   background: #4cff00;
 }
+
+
+@media screen and (max-width:1300px) {
+
+    li{
+      font-size: 13pt;
+    }
+
+
+    .titleofdates{
+        font-size: 20pt;
+    }
+
+    .title{
+      font-size: 20pt;
+    }
+
+    .modes{
+      font-size: 10pt;
+    }
+
+    .more{
+      font-size:10 pt;
+    }
+
+}
+
+@media screen and (max-width:532px) {
+
+    li{
+      font-size: 10pt;
+    }
+
+
+    .titleofdates{
+        font-size: 15pt;
+    }
+
+    .title{
+      font-size: 15pt;
+    }
+
+    .modes{
+      font-size: 10pt;
+    }
+
+    .more{
+      font-size:10 pt;
+    }
+    
+}
