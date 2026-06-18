@@ -97,10 +97,14 @@ li{
 }
 
 .search{
-  visibility: hidden;
+  visibility: visible;
+  font-size: 12pt;
   width: auto;
   text-align: center;
 }
+
+mark        { background: #FAC775; color: #412402; border-radius: 2px; padding: 0 2px; }
+mark.current { background: #EF9F27; outline: 2px solid #BA7517; }
 
 .highlight {
   background: #4cff00;
