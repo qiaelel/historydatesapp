@@ -110,6 +110,14 @@ mark.current { background: #EF9F27; outline: 2px solid #BA7517; }
   background: #4cff00;
 }
 
+.stores{
+  justify-content: center;
+  width: 200px;
+
+
+}
+
+
 
 @media screen and (max-width:1300px) {
 
