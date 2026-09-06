@@ -18,7 +18,7 @@
             <h1 class="modes">Добро пожаловать!</h1>
             <li>Проект Даты по истории(historydatesapp) - любительский проект, где собраны даты связанные с историей.</li>
             <li>Внимание! Автор не несет ответственности за достоверность дат, но если вы нашли ошибку - с радостью исправит.</li>
-            <li>Последнее обновление: v1.8.1(06.09.2026)</li>
+            <li>Последнее обновление: v1.8.1.1(06.09.2026)</li>
         </div>
         <p> </p>
         <div class="buttons">
@@ -29,6 +29,16 @@
         </div>
         
     </main>
+
+<script>
+    if ('serviceWorker' in navigator) {
+        window.addEventListener('load', () => {
+            navigator.serviceWorker.register('/sw.js')
+                .then((reg) => console.log('Service Worker успешно зарегистрирован:', reg.scope))
+                .catch((err) => console.error('Ошибка регистрации Service Worker:', err));
+        });
+    }
+</script>
 
     <footer>
         <p>ㅤ</p>

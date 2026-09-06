@@ -205,6 +205,7 @@
                 <p>--</p>
         </main>
             </div>
+
     <footer>
         <p>ㅤ</p>
         <p class = "modes">Нашли ошибку или хотите добавить даты? - </p> 
@@ -226,4 +227,14 @@
     document.getElementById('next-btn').addEventListener('click', () => search.next());
     document.getElementById('prev-btn').addEventListener('click', () => search.prev());
   </script>
+
+    <script>
+    if ('serviceWorker' in navigator) {
+        window.addEventListener('load', () => {
+            navigator.serviceWorker.register('/sw.js')
+                .then((reg) => console.log('Service Worker успешно зарегистрирован:', reg.scope))
+                .catch((err) => console.error('Ошибка регистрации Service Worker:', err));
+        });
+    }
+    </script>
 </body>
