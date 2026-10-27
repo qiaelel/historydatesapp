@@ -15,10 +15,10 @@
 Вы можете установить наше <a href="https://historydatesapp.qiaelel.ru/aplication.html">приложение</a> или использовать веб-версию проекта.
 
 # Ссылки проекта
-сам проект (https://historydatesapp.qiaelel.ru/) 
-зеркало (https://qiaelel.github.io/historydatesapp)
-Сообщество ВКонтакте (http://vk.com/historydatesapp)
-Телеграмм-канал (http://t.me/historydatesapp)
-Приложение (https://historydatesapp.qiaelel.ru/aplication.html)
+сам проект (https://historydatesapp.qiaelel.ru/) <br>
+зеркало (https://qiaelel.github.io/historydatesapp) <br>
+Сообщество ВКонтакте (http://vk.com/historydatesapp) <br>
+Телеграмм-канал (http://t.me/historydatesapp) <br>
+Приложение (https://historydatesapp.qiaelel.ru/aplication.html) <br>
 
 
