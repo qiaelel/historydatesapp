@@ -1,16 +1,24 @@
 <img src="favicon.ico"></img>
 
 # historydatesapp
-Проект содержащий даты по истории.
+Даты по истории - это любительский проект с открытым исходным кодом, который содержит даты из школьной программы РФ и дополнительную информацию к некоторым из них. <br>
+У проекта есть приложение под <a href="https://github.com/qiaelel/historydatesapp4a">Android</a> и <a href="https://github.com/qiaelel/historydatesapp4ios">iOS (iPadOS)</a>, которое добавляет дополнительные функции ввиде оффлайн режима и улучшенной работы с проектом.
 
-# what's new?
+# Основная цель проекта
+Основная цель проекта это предоставить учащимся единое место, где собраны все необходимые даты.
 
-Исправлены ошибки в приложении
+# Дисклеймер
+Даты могут содержать ошибки или дизинформацию, пожалуйста проверяйте даты на актуальность и правильность. <br>
+Автор не несет ответственности за предоставленную информацию.
 
-<a href="https://t.me/historydateapp">Перейти в телеграмм канал проекта</a>
+# Установка и использование
+Вы можете установить наше <a href="https://historydatesapp.qiaelel.ru/aplication.html">приложение</a> или использовать веб-версию проекта.
 
-<a href="https://vk.com/historydatesapp">Перейти в сообщество ВКонтакте проекта</a>
+# Ссылки проекта
+сам проект (https://historydatesapp.qiaelel.ru/) 
+зеркало (https://qiaelel.github.io/historydatesapp)
+Сообщество ВКонтакте (http://vk.com/historydatesapp)
+Телеграмм-канал (http://t.me/historydatesapp)
+Приложение (https://historydatesapp.qiaelel.ru/aplication.html)
 
-<a href="https://qiaelel.github.io/historydatesapp/">на главную</a>
 
-v1.8.1.1
