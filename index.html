@@ -6,56 +6,56 @@
     <title>Даты по истории</title>
     <link rel="stylesheet" href="historydatesapp.css">
 </head>
-<body>
-</body>
-    <header>
-        <img class="icon" src="images/historydatesapp.ico" alt="historydatesapp">
-        <h1 class="title">Даты по истории</h1>
-        <p>ㅤ</p>
-    </header>
-    <main>
-        <div class="text">
-            <h1 class="modes">Добро пожаловать!</h1>
-            <li>Проект Даты по истории(historydatesapp) - любительский проект, где собраны даты связанные с историей.</li>
-            <li>Внимание! Автор не несет ответственности за достоверность дат, но если вы нашли ошибку - с радостью исправит.</li>
-            <li>Последнее обновление: v1.8.1.3(15.10.2026)</li>
-        </div>
-        <p> </p>
-        <div class="buttons">
-            <a class="modes" href="historydatesapp.html">Перейти к датам</a>
-            <a class="modes" href="zelenka.html">Дополнительно</a>
-        </div>
-        
-    </main>
+    <body>
+        <header>
+            <img class="icon" src="images/historydatesapp.ico" alt="historydatesapp">
+            <h1 class="title">Даты по истории</h1>
+            <p>ㅤ</p>
+        </header>
+        <main>
+            <div class="text">
+                <h1 class="modes">Добро пожаловать!</h1>
+                <li>Даты по истории - это любительский проект с открытым исходным кодом, который содержит даты из школьной программы РФ<br> и дополнительную информацию к некоторым из них.</li>
+                <li>Внимание! Автор не несет ответственности за достоверность дат, но если вы нашли ошибку - с радостью исправит.</li>
+                <li>Последнее обновление: v1.8.1.4 (29.10.2026)</li>
+            </div>
+            <p> </p>
+            <div class="buttons">
+                <a class="modes" href="historydatesapp.html">Перейти к датам</a>
+                <a class="modes" href="zelenka.html">Дополнительно</a>
+            </div>
+            
+        </main>
 
 
 
-    <footer>
-        <p>ㅤ</p>
-        <p class = "modes">Нашли ошибку или хотите добавить даты? - </p> 
-        <a class="modes" href="https://t.me/historydatesapp">Телеграмм канал проекта</a>
-        <a class="modes" href="https://vk.com/historydatesapp">Сообщество ВКонтакте</a>
-        <p class="modes">by qiaelel(2026)</p>
-        <button href="aplication.html" id="app">Установить приложение</button>
-        <p>ㅤ</p>
-    </footer>
-<script>
-    if ('serviceWorker' in navigator) {
-        window.addEventListener('load', () => {
-            navigator.serviceWorker.register('/sw.js')
-                .then((reg) => console.log('Service Worker успешно зарегистрирован:', reg.scope))
-                .catch((err) => console.error('Ошибка регистрации Service Worker:', err));
-        });
-    }
+        <footer>
+            <p>ㅤ</p>
+            <p class = "modes">Нашли ошибку или хотите добавить даты? - </p> 
+            <a class="modes" href="https://t.me/historydatesapp">Телеграмм канал проекта</a>
+            <a class="modes" href="https://vk.com/historydatesapp">Сообщество ВКонтакте</a>
+            <p class="modes">by qiaelel(2026)</p>
+            <button href="aplication.html" id="app">Установить приложение</button>
+            <p>ㅤ</p>
+        </footer>
+    <script>
+        if ('serviceWorker' in navigator) {
+            window.addEventListener('load', () => {
+                navigator.serviceWorker.register('/sw.js')
+                    .then((reg) => console.log('Service Worker успешно зарегистрирован:', reg.scope))
+                    .catch((err) => console.error('Ошибка регистрации Service Worker:', err));
+            });
+        }
 
-    if (navigator.userAgent.includes('historydatesapp/1.1'))  {
-      const btn = document.getElementById('app');
-      if (btn) {
-        btn.style.display = 'none';
-      }
-    }
-    document.getElementById('app').addEventListener('click', function() {
-    window.location.href = 'https://historydatesapp.qiaelel.ru/aplication.html';
-  });
-</script>
-</body>
+        if (navigator.userAgent.includes('historydatesapp4a/1.2', 'historydatesapp4ios/1.0'))  {
+        const btn = document.getElementById('app');
+        if (btn) {
+            btn.style.display = 'none';
+        }
+        }
+        document.getElementById('app').addEventListener('click', function() {
+        window.location.href = 'https://historydatesapp.qiaelel.ru/aplication.html';
+    });
+    </script>
+    </body>
+</html>
